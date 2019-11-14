@@ -9,4 +9,5 @@ class Solution:
             awns_arr.append(c)
         return awns_arr
 
+
 print(Solution().addToArrayForm([1,0,0,0], 1))
